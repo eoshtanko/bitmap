@@ -1,0 +1,12 @@
+DimDate.EnglishMonthName,DimDate.MonthNumberOfYear,DimDate.CalendarQuarter,DimDate.CalendarYear,DimDate.CalendarSemester,DimDate.FiscalQuarter,DimDate.FiscalYear,DimDate.FiscalSemester
+10
+DimDate.CalendarYear = 2010
+DimDate.CalendarSemester = 2
+DimDate.FiscalQuarter = 2
+DimDate.FiscalYear = 2011
+DimDate.FiscalSemester = 1
+DimDate.DayNumberOfMonth = 29
+DimDate.DayNumberOfYear = 363
+DimDate.WeekNumberOfYear = 53
+DimDate.MonthNumberOfYear = 12
+DimDate.CalendarQuarter = 4

@@ -1,0 +1,14 @@
+FactResellerSales.CustomerPONumber
+12
+DimSalesTerritory.SalesTerritoryRegion = 'Southeast'
+DimSalesTerritory.SalesTerritoryCountry = 'United States'
+DimSalesTerritory.SalesTerritoryGroup = 'North America'
+DimSalesTerritory.SalesTerritoryRegion = 'Southeast'
+DimSalesTerritory.SalesTerritoryCountry = 'United States'
+DimSalesTerritory.SalesTerritoryGroup = 'North America'
+DimSalesTerritory.SalesTerritoryRegion = 'Southeast'
+DimSalesTerritory.SalesTerritoryCountry = 'United States'
+DimSalesTerritory.SalesTerritoryGroup = 'North America'
+DimSalesTerritory.SalesTerritoryRegion = 'Southeast'
+DimSalesTerritory.SalesTerritoryCountry = 'United States'
+DimSalesTerritory.SalesTerritoryGroup = 'North America'

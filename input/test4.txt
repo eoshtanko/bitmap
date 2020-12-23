@@ -1,0 +1,12 @@
+DimDate.DateKey,DimDate.FullDateAlternateKey,DimDate.DayNumberOfWeek,DimDate.EnglishDayNameOfWeek,DimDate.DayNumberOfMonth,DimDate.DayNumberOfYear,DimDate.WeekNumberOfYear,DimDate.EnglishMonthName,DimDate.MonthNumberOfYear,DimDate.CalendarQuarter,DimDate.CalendarYear,DimDate.CalendarSemester,DimDate.FiscalQuarter,DimDate.FiscalYear,DimDate.FiscalSemester
+10
+FactResellerSales.SalesOrderNumber = 'SO43659'
+DimProduct.EnglishProductName = 'Mountain-100 Black, 42'
+DimReseller.Phone = '967-555-0129'
+DimReseller.ProductLine = 'Mountain'
+DimPromotion.EnglishPromotionType = 'No Discount'
+DimPromotion.EndDate = '2014-06-30 00:00:00.000'
+DimSalesTerritory.SalesTerritoryGroup = 'North America'
+DimEmployee.Title = 'Sales Representative'
+DimEmployee.Gender = 'M'
+DimProduct.SizeRange = '42-46 CM'

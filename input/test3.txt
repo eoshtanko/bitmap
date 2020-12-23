@@ -1,0 +1,4 @@
+DimCurrency.CurrencyAlternateKey,DimCurrency.CurrencyName,DimPromotion.PromotionKey,DimPromotion.PromotionAlternateKey,DimPromotion.EnglishPromotionName,DimPromotion.EnglishPromotionType,DimPromotion.EnglishPromotionCategory,DimPromotion.StartDate,DimPromotion.EndDate,DimPromotion.MinQty
+2
+FactResellerSales.OrderQuantity = 7
+FactResellerSales.OrderQuantity = 9
